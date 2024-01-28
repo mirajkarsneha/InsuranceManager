@@ -1,0 +1,6 @@
+product_code,category,customer_email,customer_salutation,customer_first_name,customer_last_name,customer_street,customer_street_number,customer_zip,customer_city,customer_country,identifiers_0_serialNumber,identifiers_0_name,identifiers_0_orderNumber,identifiers_0_invoiceNumber
+PDCODE617842,CATEGORY_SMARTPHONE,test@test.com,1,Tester,User,Am Karlsbad,16,10785,Berlin,DE,SER-111111,NAME-1111,ORD-1111,INV-11111
+PDCODE464746,CATEGORY_SMARTPHONE,test@test.com,1,Tester,User,Am Karlsbad,16,10785,Berlin,DE
+PDCODE464746,CATEGORY_SMARTPHONE,test@test.com,1,Tester,User,Am Karlsbad,16,10785,Berlin,DE,SER-111111,NAME-1111,ORD-1111,INV-11111
+PDCODE464746,CATEGORY_SMARTPHONE,test@test,1,Tester,User,Am Karlsbad,16,10785,Berlin,DE,SER-111111,NAME-1111,ORD-1111,INV-11111
+PDCODE456767,CATEGORY_SMARTPHONE,test@test.com,1,Tester,User,Am Karlsbad,16,10785,Berlin,DE,SER-111111,NAME-1111,ORD-1111,INV-11111
